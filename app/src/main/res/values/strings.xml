@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Samples</string>
+    <string name="write_city">Podaj nazwe miasta</string>
+    <string name="check">Check</string>
+    <string name="API_KEY">c3fa51e3fdb68faa8b4e48256f5b1dbf</string>
+
+</resources>
